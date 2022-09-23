@@ -10,6 +10,8 @@ public class ContactTest {
 		System.out.println("First commit - MavenProject");
 		
 		System.out.println("First commit - Project");
+		
+		System.out.println("Second commit - seleniumProject");
 	}
 
 }
