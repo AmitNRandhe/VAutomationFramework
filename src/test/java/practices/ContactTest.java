@@ -12,6 +12,8 @@ public class ContactTest {
 		System.out.println("First commit - Project");
 		
 		System.out.println("Second commit - Selenium11Project");
+		
+		System.out.println("Third commit - javaProject");
 	}
 
 }
